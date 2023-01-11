@@ -9,8 +9,15 @@
   text-align: center
 }
 
+.image {
+  margin: 20px
+}
+
 .sidebar {
   width: 30%;
   float: right;
   background-color: red;
+  border: 4px dashed black;
+  padding: 4px;
+  margin: 20px;
 }
