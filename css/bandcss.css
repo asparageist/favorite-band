@@ -1,0 +1,16 @@
+.column {
+  width: 500px;
+  float: left;
+}
+
+.blood {
+  color: red;
+  font-style: bold;
+  text-align: center
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: red;
+}
